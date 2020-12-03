@@ -1,0 +1,9 @@
+html, body, .content-page {
+  height: 100vh;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
